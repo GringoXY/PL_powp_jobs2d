@@ -1,0 +1,7 @@
+3.2.
+Pytanie 5. Kiedy warto (lub trzeba) korzystać z adaptera klasy (wariant z projektu
+stażysty)?
+
+Odp.: Gdy korzystamy z dwóch różnych bibliotek, komponentów, paczek i chcemy dane z jednej klasy przesłać do drugiej
+dostosowując je pod drugą klasę.
+W takiej sytuacji dobrą praktyką będzie zastosowanie wzorca "Adapter"
